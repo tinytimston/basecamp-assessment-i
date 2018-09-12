@@ -1,4 +1,5 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
+var = 'Timothy Crookston'
 
 // CODE HERE
 
